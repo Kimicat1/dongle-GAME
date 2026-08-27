@@ -32,3 +32,15 @@ That's what it looks like now:
 <img width="1246" height="1025" alt="image" src="https://github.com/user-attachments/assets/58ea3a4f-2a62-4d73-a164-58f1ad5ad0f0" />
 I will do the routing next. But for that I possibly move some footprints elsewhere, because the routings should be as short as possible. I was struggling with that since now, so I decided to try later again, after a bit research and talking about it with others. 
 My goal is to finish the PCB editor today, so I can start programming tomorrow. 
+
+
+## August 26: changing everything and finishing the PCB
+*Time Spent: 3 hours*
+
+Tonight I decided to change almost everything. My Lighthouse should not be a game anymore, it now just has to blink pretty. why I changed that: everything became to complicated, the time I had left was not enough, I never programmed something like this before, so it should not be that complicated to programm, the routing was impossible, because everything was so far awy from each other; what I changed: I made new LED-groups and connected them with other pins, I've cleaned up the schematic editor - now everything is much clear, the I deletet some LEDs that were making the routing just unnecessary complicated. In the RCB editor I changed the placement of nearly everything and optimized the edge.cuts. 
+That's what it looks like then: 
+<img width="1266" height="1025" alt="image" src="https://github.com/user-attachments/assets/9419ae24-c07a-4dbc-ae21-4c30a10c9d02" />
+<img width="1246" height="1025" alt="image" src="https://github.com/user-attachments/assets/2944b588-59d1-493d-b1a9-f414a794e45f" />
+I'm very proud oof how I made everything much better. I'm glad I decided to not do the game. Mow I have more time for everything and the stuff is not such a chaos anymore.
+
+After that I finished the PCB and the routings were suddenly so easy that it didn't take long until I finally was ready for adding a case and programming. That are the steps I'm planning to do tomorrow. 
