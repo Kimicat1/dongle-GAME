@@ -47,6 +47,16 @@ After that I finished the PCB in the morning. And the routings were suddenly so 
 
 ## August 27: case and BOM
 *Time Spent: 3 hours*
-I made the case with Onshape.I made a floor (0.4mm high, so PCB+case=2mm) and border (2mm high, 1mm thick), so you can place the PCb in there. I decided not do build a roof, because I don't need it, have only a few hours left and also ididn't know how I would have designed it. Because I used Onshape for some projects before, it didn't take long and I had no problems. But searching for the right components for the BOM took very long. At first I had to find out what I have to search for, then I had to find them on the internet and create the table, then check everything again... But after roundabout 2 hours it was done. And now I can move on to programming it.
+I made the case with Onshape.I made a floor (0.4mm high, so PCB+case=2mm) and border (2mm high, 1mm thick), so you can place the PCB in there. I decided not do build a roof, because I don't need it, have only a few hours left and also I didn't know how I would designe it. Because I used Onshape for some projects before, it didn't take long and I had just a few problems with importing the edge cuts. But searching for the right components for the BOM took very long. At first I had to find out what I have to search for, then I had to find them on the internet and create the table... But after roundabout 2 hours it was done. And now I can move on to programming it.
 That's the case:
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/94c0ba91-488d-49da-8324-a765bdd45027" />
+
+## August 27: programming 
+*Time Spent: 1 hour*
+I programmed some easy light on, light out code with Arduino.IDE. I use Arduino in school all the time, so there were no problems at all. Then I exported the case from Onshape, because I forgot that before.
+<img width="781" height="1032" alt="image" src="https://github.com/user-attachments/assets/f5923490-48e1-441b-b141-305d16e3ff7d" />
+Right now dongle extended for 12hours, so I have more time to add some sweet details. As my next step I will add some silkscreen drawings (like a hack club flag)  to the PCB and maybe do some other stuff. 
+In Addition I will check the BOM for any mistakes, because I didn't do that before. 
+
+## August 27: hack club flag and BOM
+*Time Spent: ...*
