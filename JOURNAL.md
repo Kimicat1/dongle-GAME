@@ -1,5 +1,5 @@
 # dongle-lighthouse
-a little lighthouse, there to bring you joy
+a little lighthouse with some blinking LEDs, there to bring you joy
 
 *total hours: 20 hours*
 
