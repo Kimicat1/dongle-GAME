@@ -16,7 +16,7 @@ My dongle is a lighthouse. There are LEDs that recreate the light of a lighthous
 
 ## screenshots
 ### final assembly: 
-unfortunately with some missing parts on the PBC...
+[link to Onshape](https://cad.onshape.com/documents/e6b528f845c7799f839f4ea1/w/271b4713409c857f7904aa9b/e/de40bcccf3c62f360a9d2873renderMode=0&uiState=6a90b61ebe0b5d6787ec1bef)
 <img width="1529" height="1011" alt="image" src="https://github.com/user-attachments/assets/e6157eff-1162-4762-a461-b7c2c5360dec" />
 
 ### PCB: 
