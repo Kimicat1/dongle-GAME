@@ -1,7 +1,7 @@
 # dongle-lighthouse
 a little lighthouse, there to bring you joy
 
-*total hours: __ hours*
+*total hours: 20 hours*
 
 
 
@@ -59,7 +59,7 @@ Right now dongle extended for 12hours, so I have more time to add some sweet det
 In Addition I will check the BOM for any mistakes, because I didn't do that before. 
 
 ## August 27: hack club flag, new case and some other changes
-*Time Spent: 4,5 hours*
+*Time Spent: 4 hours*
 At first I changed the edge cuts in the PCB editor again, because I noticed that the section of the circuit board  around the USB port didn't stick out quite enough. Wanted to play it safe, I extended that section, After that I had to move the USB port, which meant deleting the traces that were connected with it and re-routing them. Then I added my "silkscreen drawings". Now the PCB looks like this:
 front:
 <img width="1266" height="713" alt="image" src="https://github.com/user-attachments/assets/cb28e84c-364a-4820-8cb2-91f6029c52b8" />
@@ -68,5 +68,7 @@ back:
 After this first hour I moved on to making a new case. I had to make a new one, because I extended the curcuit board earlier. Also I wanted to import the PCB in ONshape to see hoe it looks with the case. First, I had problems with exporting the PCB (from KICAD) and importing it (to Onshape) the right way. That took me half an hour. Then I biult the case, but when I finished it, I didn't stop, because the colour of the case bottom ad the same colour as the circuit board, that's why I didn't recognice that I finished and thought something was wrong with bottom of the case. So I re-built the case two times until I noticed the colour of the bottom that was actually nothing wrong with. After this intensive hour I had problems again with the placement of PCB and case, so it looks like the PCB lays in the case. That took me additionaly half an hour. 
 That's how it looks like: (I don't now why the USB port is missing, but it doesn't matter, because this was just to see how it'll looks like)
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/32bb008a-2530-4b41-b8b5-52a4fc134d29" />
-The next half an hour I spent on searching for mistakes on the BOM after a quick check in the guide if I had missed sometihng or done something wrong. I checked if the Quantity, the costs and the links were right ( and hoped I chose the right items; I didn't want to investigate them too). Then I recogniced that the shiping costs were for the entire purchase on the website, but not for each item stack on one website. It took me another hour to resolve the problem. 
+The last hour I spent on searching for mistakes on the BOM after a quick check in the guide if I had missed sometihng or done something wrong. I checked if the Quantity, the costs and the links were right ( and hoped I chose the right items; I didn't want to investigate them too). Then I recogniced that the shiping costs were for the entire purchase on the website, but not for each item stack on one website. It took the rest of the hour to resolve the problem. 
+
+
 Finally I can now submit my dongle.
