@@ -1,5 +1,5 @@
-# dongle-GAMES
-a little game where you have to push the same arrow-buttons on the keyboard as the Leds show in a specific time to win.
+# dongle-lighthouse
+a little lighthouse, there to bring you joy
 
 *total hours: __ hours*
 
@@ -34,8 +34,8 @@ I will do the routing next. But for that I possibly move some footprints elsewhe
 My goal is to finish the PCB editor today, so I can start programming tomorrow. 
 
 
-## August 26: changing everything and finishing the PCB
-*Time Spent: 3 hours*
+## August 27: changing everything and finishing the PCB
+*Time Spent: 4 hours*
 
 Tonight I decided to change almost everything. My Lighthouse should not be a game anymore, it now just has to blink pretty. why I changed that: everything became to complicated, the time I had left was not enough, I never programmed something like this before, so it should not be that complicated to programm, the routing was impossible, because everything was so far awy from each other; what I changed: I made new LED-groups and connected them with other pins, I've cleaned up the schematic editor - now everything is much clear, the I deletet some LEDs that were making the routing just unnecessary complicated. In the RCB editor I changed the placement of nearly everything and optimized the edge.cuts. 
 That's what it looks like then: 
@@ -43,4 +43,10 @@ That's what it looks like then:
 <img width="1246" height="1025" alt="image" src="https://github.com/user-attachments/assets/2944b588-59d1-493d-b1a9-f414a794e45f" />
 I'm very proud oof how I made everything much better. I'm glad I decided to not do the game. Mow I have more time for everything and the stuff is not such a chaos anymore.
 
-After that I finished the PCB and the routings were suddenly so easy that it didn't take long until I finally was ready for adding a case and programming. That are the steps I'm planning to do tomorrow. 
+After that I finished the PCB in the morning. And the routings were suddenly so easy that it didn't take long until I finally was ready for adding a case and programming. That are the steps I'm planning to do next. 
+
+## August 27: case and BOM
+*Time Spent: 3 hours*
+I made the case with Onshape.I made a floor (0.4mm high, so PCB+case=2mm) and border (2mm high, 1mm thick), so you can place the PCb in there. I decided not do build a roof, because I don't need it, have only a few hours left and also ididn't know how I would have designed it. Because I used Onshape for some projects before, it didn't take long and I had no problems. But searching for the right components for the BOM took very long. At first I had to find out what I have to search for, then I had to find them on the internet and create the table, then check everything again... But after roundabout 2 hours it was done. And now I can move on to programming it.
+That's the case:
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/94c0ba91-488d-49da-8324-a765bdd45027" />
