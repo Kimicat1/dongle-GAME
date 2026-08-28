@@ -11,10 +11,10 @@ My dongle is a lighthouse. There are LEDs that recreate the light of a lighthous
 | XUNPU TS-1088-AC02016 tactile switch | 1 | $ 0.00 | [LCSC C720475](https://www.lcsc.com/product-detail/C720475.html) |
 | 0805 SMD LEDs blue | 4 | $ 1.62 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
 | 0805 SMD LEDs white  | 11| $ 0.24 | [LCSC C130115](https://www.lcsc.com/product-detail/C130115.html?s_z=n_q_LED%2520White%25200805&spm=wm.fly.bg.12.xh&lcsc_vid=TwdaAlZXRVVbVVYDRFJcUQVVQQBcBVYCFQVdX1ICRlYxVlNeQFlYVlBRQFNYVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQllZXlRTT08GEwkK) |
-|PCB | 1 | $ 20.00  | _file_ | 
+|PCB | 1 | $ 22.54 | [pcb-gerber.zip](https://github.com/user-attachments/files/31551457/USB_LED_DONGLE_pcb-gerber.zip.zip) 
 | 3D printed case | 1 | $ 0.00 | |
 | Shipping |  | $ 12.78 | |
-| Total | 37 | §  | |
+| Total | 37 | § 39.11  | |
 
 ## screenshots
 ### final assembly: 
