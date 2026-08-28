@@ -6,13 +6,15 @@ My dongle is a lighthouse. There are LEDs that recreate the light of a lighthous
 |--------|------|------|------|
 |WCH CH552G Microcontroller | 1 | $ 0.75 | [LCSC C111292](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_WCH-Jiangsu-Qin-Heng-CH552G_C111292.html)|
 | Murata GRM188R72A104KA35D, 100nF, 0603 | 2 | $ 0.18 | [LCSC C77058](https://www.lcsc.com/product-detail/C77058.html) |
-| 330Ω resistor, 0603 | 12 | $ 0.18 | [mouser](https://www.mouser.de/de/ProductDetail/Bourns/CR0603-FX-3300ELF?qs=I4suiNu8FYB0EfszDEV%252BGw%3D%3D)
-| 10kΩ resistor, 0603 | 1 | $ 0.10 |[DigiKey](https://www.digikey.de/en/products/detail/yageo/RC0603FR-0710KL/729827?utm.com)
-| XUNPU TS-1088-AC02016 tactile switch | 1 | $ 0.07 | [JLCPCBC720475](https://jlcpcb.com/partdetail/XUNPU-TS_1088AC02016/C720475) |
+| 330Ω resistor, 0603 | 15 | $ 1.00 | [LCSC C4078463](https://www.lcsc.com/product-detail/C4078463.html?s_z=n_q_C4078463&globalKeyword=C4078463)
+| 10kΩ resistor, 0603 | 1 | $ 0.00 | [LCSCC190610](https://www.lcsc.com/product-detail/C190610.html) |
+| XUNPU TS-1088-AC02016 tactile switch | 1 | $ 0.00 | [LCSC C720475](https://www.lcsc.com/product-detail/C720475.html) |
 | 0805 SMD LEDs blue | 4 | $ 1.62 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
-| 0805 SMD LEDs white  | 11| $ 0.24 | [LCSC C130115](https://www.lcsc.com/product-detail/C130115.html?s_z=n_q_LED%2520White%25200805&spm=wm.fly.bg.12.xh&lcsc_vid=TwdaAlZXRVVbVVYDRFJcUQVVQQBcBVYCFQVdX1ICRlYxVlNeQFlYVlBRQFNYVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQllZXlRTT08GEwkK)
-| Shipping |  | ~ $ 60.00 | |
-| Total | 36 | ~ § 63.14 | |
+| 0805 SMD LEDs white  | 11| $ 0.24 | [LCSC C130115](https://www.lcsc.com/product-detail/C130115.html?s_z=n_q_LED%2520White%25200805&spm=wm.fly.bg.12.xh&lcsc_vid=TwdaAlZXRVVbVVYDRFJcUQVVQQBcBVYCFQVdX1ICRlYxVlNeQFlYVlBRQFNYVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQllZXlRTT08GEwkK) |
+|PCB | 1 | $ 20.00  | _file_ | 
+| 3D printed case | 1 | $ 0.00 | |
+| Shipping |  | $ 12.78 | |
+| Total | 37 | §  | |
 
 ## screenshots
 ### final assembly: 
